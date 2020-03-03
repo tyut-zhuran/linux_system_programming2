@@ -1,3 +1,1 @@
-test_in_3_test_write_c
-an 
-just a test
+written in 4_TRUNC_and_APPEND.c
