@@ -31,6 +31,7 @@ int main()
 		_exit(-1);
 	}
 	printf("文件写入成功！ret=%d.\n",ret);
+	close(fd);
 	return 0;
 }
 

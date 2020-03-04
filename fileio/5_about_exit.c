@@ -15,6 +15,7 @@ int main()
 		_exit(-1);
 	}	
 	printf("不应被打印！\n");
+	close(fd);
 	return 0;
 }
 
